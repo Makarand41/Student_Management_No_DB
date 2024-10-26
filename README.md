@@ -23,4 +23,4 @@ Post a student
 
 Post multiple students
 
-
+![image](https://github.com/user-attachments/assets/afea590f-3768-41fa-8b8b-63dfaf03ca89)
